@@ -1,0 +1,23 @@
+{
+  "name": "fabians-flask-extension-pack",
+  "displayName": "Fabians Flask Extension Pack",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XFazze/fabians-extension-packs"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "sidthesloth.html5-boilerplate",
+    "wholroyd.jinja",
+    "dbaeumer.vscode-eslint",
+    "cstrap.flask-snippets",
+    "WyattFerguson.jinja2-snippet-kit"
+  ]
+}
