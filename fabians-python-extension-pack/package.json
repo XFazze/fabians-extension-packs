@@ -2,6 +2,10 @@
   "name": "fabians-python-extension-pack",
   "displayName": "Fabians Python Extension Pack",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XFazze/fabians-extension-packs"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -12,6 +16,7 @@
   "extensionPack": [
     "ms-python.python",
     "ms-python.isort",
+    "ms-python.vscode-pylance",
     "njpwerner.autodocstring",
     "KevinRose.vsc-python-indent"
   ]
