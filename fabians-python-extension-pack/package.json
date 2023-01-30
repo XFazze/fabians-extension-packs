@@ -1,0 +1,18 @@
+{
+  "name": "fabians-python-extension-pack",
+  "displayName": "Fabians Python Extension Pack",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.isort",
+    "njpwerner.autodocstring",
+    "KevinRose.vsc-python-indent"
+  ]
+}
