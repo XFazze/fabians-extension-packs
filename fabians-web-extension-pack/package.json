@@ -1,0 +1,29 @@
+{
+  "name": "fabians-web-extension-pack",
+  "displayName": "fabians-web-extension-pack",
+  "publisher": "FabiansExtensionPacks",
+  "homepage": "https://github.com/XFazze/fabians-extension-packs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XFazze/fabians-extension-packs"
+  },
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "vincaslt.highlight-matching-tag",
+    "sidthesloth.html5-boilerplate",
+    "naumovs.color-highlight",
+    "Zignd.html-css-class-completion",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css"
+  ]
+}

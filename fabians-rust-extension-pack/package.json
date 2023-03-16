@@ -1,26 +1,24 @@
 {
-  "name": "fabians-python-extension-pack",
-  "displayName": "Fabians Python Extension Pack",
+  "name": "fabians-rust-extension-pack",
+  "displayName": "fabians-rust-extension-pack",
   "publisher": "FabiansExtensionPacks",
   "homepage": "https://github.com/XFazze/fabians-extension-packs",
-  "description": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/XFazze/fabians-extension-packs"
   },
+  "description": "",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.76.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-python.python",
-    "ms-python.isort",
-    "ms-python.vscode-pylance",
-    "njpwerner.autodocstring",
-    "KevinRose.vsc-python-indent",
-    "ms-python.black-formatter"
+    "dustypomerleau.rust-syntax",
+    "serayuzgur.crates",
+    "rust-lang.rust-analyzer",
+    "bungcip.better-toml"
   ]
 }

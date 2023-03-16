@@ -1,6 +1,6 @@
 {
-  "name": "fabians-python-extension-pack",
-  "displayName": "Fabians Python Extension Pack",
+  "name": "fabians-c-extension-pack",
+  "displayName": "fabians-c-extension-pack",
   "publisher": "FabiansExtensionPacks",
   "homepage": "https://github.com/XFazze/fabians-extension-packs",
   "description": "",
@@ -10,17 +10,15 @@
   },
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.76.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
-    "ms-python.python",
-    "ms-python.isort",
-    "ms-python.vscode-pylance",
-    "njpwerner.autodocstring",
-    "KevinRose.vsc-python-indent",
-    "ms-python.black-formatter"
+    "ms-vscode.cpptools",
+    "danielpinto8zz6.c-cpp-compile-run",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools"
   ]
 }

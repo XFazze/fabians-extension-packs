@@ -1,11 +1,13 @@
 {
   "name": "fabians-flask-extension-pack",
   "displayName": "Fabians Flask Extension Pack",
-  "description": "",
+  "publisher": "FabiansExtensionPacks",
+  "homepage": "https://github.com/XFazze/fabians-extension-packs",
   "repository": {
     "type": "git",
     "url": "https://github.com/XFazze/fabians-extension-packs"
   },
+  "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -14,10 +16,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "sidthesloth.html5-boilerplate",
     "wholroyd.jinja",
-    "dbaeumer.vscode-eslint",
     "cstrap.flask-snippets",
-    "WyattFerguson.jinja2-snippet-kit"
+    "WyattFerguson.jinja2-snippet-kit",
+    "samuelcolvin.jinjahtml",
+    "monosans.djlint"
   ]
 }
