@@ -8,7 +8,7 @@
     "url": "https://github.com/XFazze/fabians-extension-packs"
   },
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -16,7 +16,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "Equinusocio.vsc-community-material-theme",
+    "EliverLara.andromeda",
     "mikestead.dotenv",
     "equinusocio.vsc-material-theme-icons",
     "ms-vscode-remote.remote-ssh",
